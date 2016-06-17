@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "welcome"
+subtitle:   ""  
+date:       2016-06-17
+author:     "ChuGiFtedScholAr"
+header-img: ""
+header-mask: 0.1
+tags:
+    - blog
+---
+
+hello 
