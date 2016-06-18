@@ -8,6 +8,9 @@ header-img: ""
 header-mask: 0.1
 tags:
     - blog
+	- life
+	- first
+	- ce
 ---
 
 hello 
