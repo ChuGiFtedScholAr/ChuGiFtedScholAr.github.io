@@ -4,7 +4,7 @@ title:  "那年搬山"
 subtitle:   ""  
 date:       2016-06-18
 author:     "chu"
-header-img: ""
+header-img: "img/header/20160618banshan.jpg"
 header-mask: 0.1
 tags:
     - 收藏
