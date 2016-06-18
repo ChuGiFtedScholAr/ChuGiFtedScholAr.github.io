@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "welcome"
+subtitle:   ""  
+date:       2016-06-18
+author:     "chu"
+header-img: ""
+header-mask: 0.1
+tags:
+    - blog
+    - 2016
+---
+
+hello
