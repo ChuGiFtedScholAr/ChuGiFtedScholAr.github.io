@@ -1,27 +1,22 @@
-# Site specific settings
-title: "hello"
-name: "ChuGiFtedScholAr"
-keywords: "ChuGiFtedScholAr"
-baseurl: "/darcli"
+# Site settings
+title: "ChuGiFtedScholAr"
+bye_message: "end ."
+baseurl: "/"
 url: "https://ChuGiFtedScholAr.github.io"
-description: "心间纵有万千语，却做桥头染别离"
-cover: "/assets/img/favicon.png"
-fanpage_id: ""
+disqus: 
 
-# Site general settings
-lang: "zh"
-lang_alternate: "pt_BR"
-ssl: false # It will redirect to https
-
-# Media
-# Just the shortname:
-# facebook: lampiaosec # Rigth
-# facebook: facebook.com/lampiaosec # Wrong
-disqus: test
-twitter: 
-facebook: 
-github: 
-google:
+# Header settings
+nick: "ChuGiFtedScholAr"
+mail:
+    domain: "protonmail"
+    ext: "ch"
+source_code: 
+    server: "github.com"
+    nick: "ChuGiFtedScholAr"
+blog: 
+    server: "wordpress.com"
+    nick: ""
+fingerprint_key: ""
 
 # Build settings
 markdown: kramdown
