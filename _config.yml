@@ -1,0 +1,6 @@
+markdown: kramdown
+permalink: /:year/:month/:title/
+url: https://ChuGiFtedScholAr.GITHUB.io
+author: ChuGiFtedScholAr
+highlighter: pygments
+
