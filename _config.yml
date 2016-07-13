@@ -1,6 +1,10 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
+<<<<<<< HEAD
 url: http://ChuGiFtedScholAr
+=======
+url: https://ChuGiFtedScholAr.github.io
+>>>>>>> 1579d2bf1127bd3111ae8393491bc2c6d1441187
 author: ChuGiFtedScholAr
 highlighter: pygments
 exclude: ["Rakefile", "CNAME", "README.md"]
