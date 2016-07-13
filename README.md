@@ -1,1 +1,0 @@
-### [ChuGiFtedScholAr](https://ChuGiFtedScholAr.github.io)

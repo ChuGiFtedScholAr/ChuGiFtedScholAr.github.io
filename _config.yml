@@ -1,8 +1,6 @@
-markdown: rdiscount
-permalink: /:year/:month/:day/:title/
+﻿markdown: kramdown
+permalink: /:year/:month/:title/
 url: https://ChuGiFtedScholAr.github.io
 author: ChuGiFtedScholAr
-highlighter: pygments
-exclude: ["Rakefile", "CNAME", "README.md"]
-safe: true
-paginate: 16
+lsi: false
+pygments: true

@@ -1,7 +1,8 @@
 ---
-title: About me
+title: about
 layout: page
-comments: no
+comments: yes
 ---
+
 
 [ChuGiFtedScholAr](https://github.io/ChuGiFtedScholAr)
