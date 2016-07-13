@@ -1,8 +1,9 @@
 ---
-title: about
 layout: page
-comments: yes
+title: Who am I ？
+tags: [about]
+date: 2016-07-13
+comments: false
 ---
-
-
-[ChuGiFtedScholAr](https://github.io/ChuGiFtedScholAr)
+    
+ChuGiFtedScholAr
