@@ -1,7 +1,7 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
-url: http://blog.nswebfrog.com
-author: nswebfrog
+url: https://ChuGiFtedScholAr.github.io
+author: ChuGiFtedScholAr
 highlighter: pygments
 exclude: ["Rakefile", "CNAME", "README.md"]
 safe: true
