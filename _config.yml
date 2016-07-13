@@ -1,7 +1,7 @@
 # Site
 title:              ChuGiFtedScholAr
 bio:                '心间纵有万千语，却做桥头染别离'
-description:        "ChuGiFtedScholAr blog."
+description:        "心间纵有万千语，却做桥头染别离"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -57,7 +57,7 @@ instagram:          lose_you13
 #flickr:            username
 #codepen:           username
 #keybase:           username
-#xmpp:              username@server.com
+xmpp:              ChuGiFtedScholAr@jwchat.org
 #hackernews:        username
 
 # Gems
