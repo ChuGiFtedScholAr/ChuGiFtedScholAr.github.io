@@ -1,13 +1,13 @@
 # Site
 title:              ChuGiFtedScholAr
-bio:                '心间纵有万千语，却做桥头染别离'
-description:        "心间纵有万千语，却做桥头染别离"
+bio:                'Pursuit Unknown'
+description:        "Pursuit Unknown"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
+locale:             zh_CN
 url:                https://ChuGiFtedScholAr.github.io
 
 # Jekyll
@@ -38,13 +38,13 @@ disqus_shortname:   ChuGiFtedScholAr
   #ad-slot:
 #bing-verify:
 email:              chu@overthinking.me
-twitter:            who_is_chu
+#twitter:            who_is_chu
 #facebook:           username
 github:             ChuGiFtedScholAr
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          lose_you13
+#instagram:          lose_you13------------//
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
@@ -56,8 +56,8 @@ instagram:          lose_you13
 #weibo:             username
 #flickr:            username
 #codepen:           username
-#keybase:           username
-xmpp:              ChuGiFtedScholAr@jwchat.org
+keybase:            past
+#xmpp:              ChuGiFtedScholAr@jwchat.org
 #hackernews:        username
 
 # Gems
