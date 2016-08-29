@@ -16,5 +16,3 @@ mail：[chu@overthinking.me](mailto:chu@overthinking.me)[[pgp](/assets/pgp.txt)]
 
 
 
-
-<iframe src="http://webchat.freenode.net?randomnick=1&channels=%23ChuGiFtedScholAr&prompt=1&uio=d4" width="647" height="400"></iframe>
