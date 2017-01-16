@@ -8,7 +8,7 @@ comments: false
     
 tox.chat：past@toxme.io
 
-mail：[chu@overthinking.me](mailto:chu@overthinking.me)[[pgp](/assets/pgp.txt)]
+<!--[pgp](/assets/pgp.txt)-->
 
 
 
